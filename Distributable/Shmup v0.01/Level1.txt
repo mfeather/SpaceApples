@@ -1,0 +1,30 @@
+TYPE: enemy 0 	X: 0650 Y: 100 end_enemy
+TYPE: enemy 0 	X: 0700 Y: 150 end_enemy
+TYPE: enemy 0 	X: 0750 Y: 250 end_enemy
+TYPE: enemy 0 	X: 0800 Y: 300 end_enemy
+TYPE: enemy 1 	X: 0950 Y: 300 end_enemy
+TYPE: enemy 2 	X: 1100 Y: 200 end_enemy
+TYPE: enemy 2 	X: 1150 Y: 200 end_enemy
+TYPE: enemy 2 	X: 1200 Y: 200 end_enemy
+TYPE: enemy 2 	X: 1250 Y: 200 end_enemy
+TYPE: enemy 1 	X: 1400 Y: 050 end_enemy
+TYPE: enemy 1 	X: 1410 Y: 450 end_enemy
+TYPE: enemy 2 	X: 1500 Y: 200 end_enemy
+TYPE: enemy 3 	X: 1540 Y: 240 end_enemy
+TYPE: enemy 2 	X: 1580 Y: 200 end_enemy
+TYPE: enemy 3 	X: 1620 Y: 240 end_enemy
+TYPE: enemy 1 	X: 1800 Y: 300 end_enemy
+TYPE: enemy 0 	X: 2201 Y: 200 end_enemy
+TYPE: enemy 0 	X: 2202 Y: 250 end_enemy
+TYPE: enemy 0 	X: 2203 Y: 300 end_enemy
+TYPE: enemy 0 	X: 2204 Y: 350 end_enemy
+TYPE: enemy 0 	X: 2205 Y: 400 end_enemy
+TYPE: enemy 3 	X: 2250 Y: 100 end_enemy
+TYPE: enemy 3 	X: 2300 Y: 100 end_enemy
+TYPE: enemy 3 	X: 2350 Y: 100 end_enemy
+TYPE: enemy 3 	X: 2400 Y: 100 end_enemy
+TYPE: powerup 0 X: 1200 Y: 300 end_enemy
+TYPE: powerup 1 X: 0800 Y: 200 end_enemy
+TYPE: powerup 2 X: 1900 Y: 200 end_enemy
+next_level: Level1
+end_level: 2600
